@@ -1,7 +1,1 @@
-my box is ubuntu14.04 amd64, kernel 3.13.0-85-generic
-contains:
-    docker
-    go 1.6
-    tree
-    git
-the soource is ali
+制作一些常用环境的Vagrant file，只需稍微更改Vagrant文件，直接vagrant up，就可以创建一台虚机。
